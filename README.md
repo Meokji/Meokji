@@ -1,6 +1,6 @@
 
  <a href="https://github.com/Meokji" target="_blank"><img src="https://img.shields.io/badge/Meokji-blue?style=for-the-badge&logo=github&logoColor=181717"/></a>
-<a href="junskim8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-inactive?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="meokji.kim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-inactive?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <hr/>
 👋 Hello, I’m @Meokji and work as and embedded and reverce engineering researcher. 🛠 <br>
 🔉 My present position is in the automotive industry, but I am interested in all aspects of security. 🖥 <br>
