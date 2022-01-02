@@ -15,12 +15,12 @@
 <hr/>
 💪 Skills <br>
 <h4>Platform & Language</h4> 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-black?style=plastic&logo=c&logoColor=A8B9CC"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-red?style=plastic&logo=cplusplus&logoColor=00599C"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-orange?style=plastic&logo=python&logoColor=3776AB"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/GoLang-inactive?style=plastice&logo=Go&logoColor=00ADD8"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-696969?style=plastic&logo=c&logoColor=A8B9CC"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-5F9EA0?style=plastic&logo=cplusplus&logoColor=00599C"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-483D8B?style=plastic&logo=python&logoColor=3776AB"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GoLang-B0C4DE?style=plastic&logo=Go&logoColor=00ADD8"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rust-white?style=plastic&logo=Rust&logoColor=000000"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-success?style=plastic&logo=Flask&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-DB7093?style=plastic&logo=Flask&logoColor=000000"/></a>
 
 
 
