@@ -6,10 +6,24 @@
 🔉 My present position is in the automotive industry, but I am interested in all aspects of security. 🖥 <br>
 👀 I communicate with a lot of individuals, and now I'm working on my own for enjoyment! 🌱 <br>
 <br>
+
+🧸 Just want to say
 - 🖌 Interested in Development, New Languages.. <br>
 - 📚 I’m currently learning RUST / GoLang <br>
 - 💞️ I’m looking to collaborate on Global Project <br>
 - 📫 How to reach me - Contact me by email
+<hr/>
+💪 Skills <br>
+<h4>Platform & Language</h4> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=A8B9CC"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-red?style=for-the-badge&logo=cplusplus&logoColor=00599C"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=3776AB"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GoLang-inactive?style=for-the-badge&logo=Go&logoColor=00ADD8"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=Rust&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-success?style=for-the-badge&logo=Flask&logoColor=000000"/></a>
+
+
+
 
 <br><hr/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meokji&show_icons=true&theme=radical)
