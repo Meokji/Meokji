@@ -18,7 +18,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-696969?style=plastic&logo=c&logoColor=A8B9CC"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-5F9EA0?style=plastic&logo=cplusplus&logoColor=00599C"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-483D8B?style=plastic&logo=python&logoColor=3776AB"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/FastAPI-B0C4DE?style=plastic&logo=FastAPI&logoColor=F5F5DC"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/FastAPI-F5F5DC?style=plastic&logo=FastAPI&logoColor=009688"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rust-white?style=plastic&logo=Rust&logoColor=000000"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-DB7093?style=plastic&logo=Flask&logoColor=000000"/></a>
 
