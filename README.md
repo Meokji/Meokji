@@ -9,7 +9,7 @@
 
 🧸 Just want to say
 - 🖌 Interested in Development, New Languages.. <br>
-- 📚 I’m currently learning RUST / GoLang <br>
+- 📚 I’m currently learning DataAnalysis / FastAPI / Rust / Flask <br>
 - 💞️ I’m looking to collaborate on Global Project <br>
 - 📫 How to reach me - Contact me by email
 <hr/>
@@ -18,7 +18,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-696969?style=plastic&logo=c&logoColor=A8B9CC"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-5F9EA0?style=plastic&logo=cplusplus&logoColor=00599C"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-483D8B?style=plastic&logo=python&logoColor=3776AB"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/GoLang-B0C4DE?style=plastic&logo=Go&logoColor=00ADD8"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/FastAPI-B0C4DE?style=plastic&logo=FastAPI&logoColor=009688"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rust-white?style=plastic&logo=Rust&logoColor=000000"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-DB7093?style=plastic&logo=Flask&logoColor=000000"/></a>
 
