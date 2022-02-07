@@ -1,5 +1,4 @@
 <a href="https://github.com/Meokji" target="_blank"><img src="https://img.shields.io/badge/Meokji-red?style=for-the-badge&logo=github&logoColor=181717"/></a>
-<a href="https://jamesk.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-006666?style=for-the-badge&logo=Telegraph&logoColor=BE3939"/></a>
 <a href="meokji.kim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-informational?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <hr/>
 👋 Hello, I’m @Meokji and work as and embedded and reverce engineering researcher. 🛠 <br>
