@@ -8,7 +8,7 @@
 
 🧸 Just want to say
 - 🖌 Interested in Development, New Languages.. <br>
-- 📚 I’m currently learning DataAnalysis / FastAPI / Rust / Flask <br>
+- 📚 I’m currently learning Data Analysis / Data Science / FastAPI / Rust / Flask <br>
 - 💞️ I’m looking to collaborate on Global Project <br>
 - 📫 How to reach me - Contact me by email
 <hr/>
