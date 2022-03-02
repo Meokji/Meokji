@@ -10,7 +10,7 @@
 - 🖌 Interested in Development, New Languages.. <br>
 - 📚 I’m currently learning Data Analysis / Data Science / FastAPI / Rust / Flask <br>
 - 💞️ I’m looking to collaborate on Global Project <br>
-- 📫 How to reach me - Contact me by email~!~a
+- 📫 How to reach me - Contact me by email~!
 <hr/>
 💪 Skills <br>
 <h4>Platform & Language</h4> 
@@ -20,9 +20,8 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/FastAPI-F5F5DC?style=plastic&logo=FastAPI&logoColor=009688"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rust-white?style=plastic&logo=Rust&logoColor=000000"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-DB7093?style=plastic&logo=Flask&logoColor=000000"/></a>
-   
-   
-  
+
+
 
 <br><hr/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meokji&show_icons=true&theme=radical)
