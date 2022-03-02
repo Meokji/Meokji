@@ -20,7 +20,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/FastAPI-F5F5DC?style=plastic&logo=FastAPI&logoColor=009688"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rust-white?style=plastic&logo=Rust&logoColor=000000"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-DB7093?style=plastic&logo=Flask&logoColor=000000"/></a>
-
+   
  
 
 
