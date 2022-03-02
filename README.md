@@ -21,10 +21,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rust-white?style=plastic&logo=Rust&logoColor=000000"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-DB7093?style=plastic&logo=Flask&logoColor=000000"/></a>
 
-  
 
-<br><hr/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meokji&show_icons=true&theme=radical)
 
 <!---
 Meokji/Meokji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
