@@ -22,8 +22,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-DB7093?style=plastic&logo=Flask&logoColor=000000"/></a>
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <!---
 Meokji/Meokji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
