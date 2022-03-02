@@ -10,7 +10,7 @@
 - 🖌 Interested in Development, New Languages.. <br>
 - 📚 I’m currently learning Data Analysis / Data Science / FastAPI / Rust / Flask <br>
 - 💞️ I’m looking to collaborate on Global Project <br>
-- 📫 How to reach me - Contact me by email~!!
+- 📫 How to reach me - Contact me by email~!!!
 <hr/>
 💪 Skills <br>
 <h4>Platform & Language</h4> 
