@@ -1,14 +1,14 @@
 <a href="https://github.com/Meokji" target="_blank"><img src="https://img.shields.io/badge/Meokji-red?style=for-the-badge&logo=github&logoColor=181717"/></a>
 <a href="meokji.kim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-informational?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <hr/>
-👋 Hello, I’m @Meokji and work as and embedded and reverce engineering researcher. 🛠 <br>
+👋 Hello, I’m @Meokji and work as and embedded and reverse engineering researcher. 🛠 <br>
 🔉 My present position is in the automotive industry, but I am interested in all aspects of security. 🖥 <br>
 👀 I communicate with a lot of individuals, and now I'm working on my own for enjoyment! 🌱 <br>
 <br>
 
 🧸 Just want to say
 - 🖌 Interested in Development, New Languages.. <br>
-- 📚 I’m currently learning Data Analysis / Data Science / FastAPI / Rust / Flask <br>
+- 📚 I’m currently Python / FastAPI / Rust / Flask <br>
 - 💞️ I’m looking to collaborate on Global Project <br>
 - 📫 How to reach me - Contact me by email~!
 <hr/>
